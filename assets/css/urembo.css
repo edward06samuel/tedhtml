@@ -1,0 +1,25 @@
+table{
+    width: 95%;
+    border-collapse:collapse ;
+    margin: 20px;
+}
+td,th{
+    border: 2px solid cadetblue;
+    padding: 15px;
+}
+th{
+    padding: 20px;
+    color: crimson;
+    font-family: cursive;
+}
+h2{
+    font-size: 40px;
+    font-family: "JetBrains Mono SemiBold";
+    color: darkblue;
+    margin-left: 30%;
+    font-family: -apple-system;
+}
+tr:nth-child(even){
+    background-color: gold;
+
+}
